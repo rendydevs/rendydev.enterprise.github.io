@@ -1,2 +1,1 @@
-# rendydev.enterprise
-# rendydev.enterprise
+This is my portofolio website
